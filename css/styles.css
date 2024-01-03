@@ -808,6 +808,10 @@ background-color: #2e2f42;
 
 }
 
+.review-form-field-wrapper-comment {
+  margin-bottom: 16px;
+}
+
 .review-form-field-label {
   display:block;
   color: #8E8F99;
